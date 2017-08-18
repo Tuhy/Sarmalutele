@@ -3,8 +3,6 @@ version: 1.0-SNAPSHOT
 author: CoderDojo Ninja
 main: ro.coderdojo.sarmalute.Main
 commands:
-  CoderDojo:
-    description: Execute example command
-    usage: /<command>
-    permission: <plugin name>.basic
-    permission-message: You don't have <permission>
+  paste:
+    description: Your description
+    usage: /paste
